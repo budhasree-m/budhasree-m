@@ -1,5 +1,5 @@
 <h1 align="center">This is Budha</h1>
-<h3 align="center">Passionate about transforming messy data into meaningful decisions across public policy, development data, and product teams.</h3>
+<h3 align="left">Passionate about transforming messy data into meaningful decisions across public policy, development data and product teams.</h3>
 
 - I’m currently working on **creating Electors dataset across Assembly Constituencies in India** and identify **UDISE+ data-driven insights** to justify the school drop-out rate. 
 
