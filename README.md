@@ -23,5 +23,3 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> Oracle SQL • PL/SQL • Microsoft T-SQL • Python • Power BI • Tableau • JS • AWS • GenAI </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=budhasree-m&show_icons=true&locale=en&layout=compact" alt="budhasree-m" /></p>
