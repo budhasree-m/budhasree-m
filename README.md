@@ -1,9 +1,9 @@
 <h1 align="center">This is Budha</h1>
 <h4 align="left">I care about making data accessible, ethical, and powerful across public policy, development data, and product teams, especially in transforming messy data into meaningful decisions.
-<br>
+<br><br>
 With a solid background of 7+ years in Business Intelligence (T-SQL, Oracle PL/SQL, RDBMS, MyBI, SSIS) and a deep interest in the intersection of data, development, and decision-making, I'm currently exploring: data quality assurance, data journalism, development data, and story-driven analytics. Open to collaborations, research, or roles where data meets meaning.
-<br>
-I have also trained myself on Tableau, Power BI, Python, D3.js & AWS Cloud in last one year and worked on a few projects.</h3>
+<br><br>
+I have also trained myself on Tableau, Power BI, Python, D3.js & AWS Cloud in last one year and worked on a few projects.</h4>
 
 - I’m currently working on **creating Electors dataset across Assembly Constituencies in India** and identify **UDISE+ data-driven insights** to justify the school drop-out rate. 
 
@@ -21,6 +21,3 @@ I have also trained myself on Tableau, Power BI, Python, D3.js & AWS Cloud in la
 <p align="left">
 <a href="https://linkedin.com/in/budha-sree-m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="budha-sree-m" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> Oracle SQL • PL/SQL • Microsoft T-SQL • Python • Power BI • Tableau • JS • AWS • GenAI </p>
