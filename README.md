@@ -9,7 +9,7 @@ I have also trained myself on Tableau, Power BI, Python, D3.js & AWS Cloud in la
 
 - I’m currently learning **D3.js, QGIS**
 
-- I’m looking for help with **Open government data & social sector analytics, Data storytelling, Business Intelligence, Data Visualisation, Ethical AI, transparency, or policy research, Health, development, or civic tech projects**
+- I’m looking forward to work with **Open Government Data & Social Sector Analytics, Data storytelling, Business Intelligence, Data Visualisation, Ethical AI, Transparency, or Policy Research, Health & Development**
 
 - My recent projects are available at [https://budhasree-m.github.io/](https://budhasree-m.github.io/)
 
