@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Open government data & social sector analytics, Data storytelling, Business Intelligence, Data Visualisation, Ethical AI, transparency, or policy research, Health, development, or civic tech projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/budhasree-m](https://github.com/budhasree-m)
+- 👨‍💻 My recent projects are available at [https://budhasree-m.github.io/]([https://budhasree-m.github.io/])
 
 - 📫 How to reach me **budhasree.m18@gmail.com**
 
