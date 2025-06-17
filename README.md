@@ -9,10 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/budhasree-m](https://github.com/budhasree-m)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/budha-sree-m/recent-activity/articles/](https://www.linkedin.com/in/budha-sree-m/recent-activity/articles/)
-
-- 💬 Ask me about **Quality Assurance**
-
 - 📫 How to reach me **budhasree.m18@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/budha-sree-m/](https://www.linkedin.com/in/budha-sree-m/)
