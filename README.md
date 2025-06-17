@@ -1,20 +1,17 @@
-<h1 align="center">Hi 👋, I'm Budha</h1>
-<h3 align="center">Passionate about transforming messy data into meaningful decisions across public policy, development data, and story-driven analytics.</h3>
+<h1 align="center">This is Budha</h1>
+<h3 align="center">Passionate about transforming messy data into meaningful decisions across public policy, development data, and product teams.</h3>
 
-- 🔭 I’m currently working on **creating Electors dataset across Assembly Constituencies in India** and identify **UDISE+ data-driven insights** to justify the school drop-out rate. 
+- I’m currently working on **creating Electors dataset across Assembly Constituencies in India** and identify **UDISE+ data-driven insights** to justify the school drop-out rate. 
 
-- 🌱 I’m currently learning **D3.js, QGIS**
+- I’m currently learning **D3.js, QGIS**
 
-- 🤝 I’m looking for help with **Open government data & social sector analytics, Data storytelling, Business Intelligence, Data Visualisation, Ethical AI, transparency, or policy research, Health, development, or civic tech projects**
+- I’m looking for help with **Open government data & social sector analytics, Data storytelling, Business Intelligence, Data Visualisation, Ethical AI, transparency, or policy research, Health, development, or civic tech projects**
 
-- 👨‍💻 My recent projects are available at [https://budhasree-m.github.io/](https://budhasree-m.github.io/)
+- My recent projects are available at [https://budhasree-m.github.io/](https://budhasree-m.github.io/)
 
-- 📫 How to reach me **budhasree.m18@gmail.com**
+- Know more about my other projects and experiences [https://www.linkedin.com/in/budha-sree-m/](https://www.linkedin.com/in/budha-sree-m/)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/budha-sree-m/](https://www.linkedin.com/in/budha-sree-m/)
-
-
-**I don’t trust a dataset until I’ve argued with it, fixed its missing values, and cross-verified it twice.**
+- How to reach me **budhasree.m18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
