@@ -1,15 +1,9 @@
 <h1 align="center">This is Budha</h1>
-<h3 align="left">I care about making data accessible, ethical, and powerful across public policy, development data, and product teams, especially in transforming messy data into meaningful decisions.
-
+<h4 align="left">I care about making data accessible, ethical, and powerful across public policy, development data, and product teams, especially in transforming messy data into meaningful decisions.
+<br>
 With a solid background of 7+ years in Business Intelligence (T-SQL, Oracle PL/SQL, RDBMS, MyBI, SSIS) and a deep interest in the intersection of data, development, and decision-making, I'm currently exploring: data quality assurance, data journalism, development data, and story-driven analytics. Open to collaborations, research, or roles where data meets meaning.
-
-I have also trained myself on Tableau, Power BI, Python, D3.js & AWS Cloud in last one year and worked on a few projects.
-
-Let’s connect if you’re working with:
-Open government data & social sector analytics
-Data storytelling, Business Intelligence, and Data Visualisation
-Ethical AI, transparency, or policy research
-Health, development, or civic tech projects</h3>
+<br>
+I have also trained myself on Tableau, Power BI, Python, D3.js & AWS Cloud in last one year and worked on a few projects.</h3>
 
 - I’m currently working on **creating Electors dataset across Assembly Constituencies in India** and identify **UDISE+ data-driven insights** to justify the school drop-out rate. 
 
