@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Budha</h1>
 <h3 align="center">Passionate about transforming messy data into meaningful decisions across public policy, development data, and story-driven analytics.</h3>
 
-- 🔭 I’m currently working on **creating Electors dataset across Assembly Constituencies in India**
+- 🔭 I’m currently working on **creating Electors dataset across Assembly Constituencies in India** and identify **UDISE+ data-driven insights** to justify the school drop-out rate. 
 
 - 🌱 I’m currently learning **D3.js, QGIS**
 
